@@ -1,0 +1,120 @@
+.header {
+  
+background: url(../images/wall.jpg);
+background-size: cover;
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+
+height: 600px;
+
+}
+
+.head {
+  text-align: center !important;
+  font-size: 25px;
+  color: whitesmoke;
+  margin-top: -35%;
+}
+.separator {
+  border:2px solid whitesmoke;
+width: 350px;
+}
+
+.boxmodel {
+  border: 2px solid whitesmoke;
+  display: inline-block;
+  padding: 5px 40px 5px 40px;
+  margin: 20px;
+  color: whitesmoke;
+  border-radius: 8px; 
+}
+
+ .nav li {
+   list-style: none;
+   display:inline-block;
+   color: whitesmoke;
+   margin-top:50px;
+   text-align: center !important;
+ }
+
+ .nav li a{
+   color: whitesmoke;
+   text-decoration: none;
+   margin: 0px 4px 3px 4px;  
+ }
+
+ .content {
+   margin: 0px 4px 0px 4px;
+   font-size: 50px;
+   margin-top: 20px;
+ }
+
+ .sec {
+   text-align: center !important;
+   color: whitesmoke;
+   background-color:#39373a;
+   padding:50px 0px 50px 0px;
+ }
+  .text-30 {
+    margin: 0px 0px 10px 0px;
+    display: block;
+    font-size: 30px;
+  }
+
+  .gap {
+    border:2px solid whitesmoke;
+    width: 340px;
+    margin-bottom: 12px;
+  }
+
+   .col-sm-4 {
+    padding: 50px 10px 300px 10px;
+    font-size: 15px;
+   }
+
+   .text-xx1 {
+     display: block;
+     /* font-size: 30px; */
+     margin: 0px 0px 3px 0px;
+   }
+
+    .po {
+      background-color:#e39f1c;
+      color: whitesmoke;
+      padding:50px 0px 50px 0px;
+      
+    }
+
+
+    .text-po {
+     margin: 0px 0px 10px 0px;
+      display:block;
+      font-size: 20px;
+    }
+
+    .boxmodel-1 {
+      border: 1px solid whitesmoke;
+      display: inline-block;
+      padding: 8px 40px 8px 40px;
+      margin: 20px;
+      color: whitesmoke;
+      border-radius: 8px;
+      }
+
+     .fin {
+       text-align: center !important;
+       color: whitesmoke;
+       background-color:#39373a;
+       padding:70px 0px 70px 0px;
+     }
+
+      .las {
+        margin: 20px;
+      }
+
+      .fo {
+          text-align: center;
+          background-color: brown;
+          color: white;
+      }
